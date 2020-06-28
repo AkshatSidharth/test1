@@ -1,0 +1,16 @@
+#wrapper{
+    background-color: beige;
+    border: black;
+    border-radius: 10px;
+}
+#header1{
+    background-color: rgb(4, 4, 61);
+    color:whitesmoke;
+    font-weight: 600;
+    
+}
+
+#section1{
+    background-color: rgb(112, 112, 155); 
+    color: antiquewhite;  
+}
